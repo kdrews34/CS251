@@ -1,0 +1,22 @@
+t01A_to_vec.log:~~       AUTO__SCORED:      10.000 / 10.000
+t01B_to_vec.log:~~       AUTO__SCORED:      10.000 / 10.000
+t02A_get_ith.log:~~       AUTO__SCORED:      10.000 / 10.000
+t02B_get_ith.log:~~       AUTO__SCORED:      10.000 / 10.000
+t03A_leq.log:~~       AUTO__SCORED:      7.500 / 7.500
+t03B_leq.log:~~       AUTO__SCORED:      7.500 / 7.500
+t04A_geq.log:~~       AUTO__SCORED:      7.500 / 7.500
+t04B_geq.log:~~       AUTO__SCORED:      7.500 / 7.500
+t05A_nrange.log:~~       AUTO__SCORED:      2.500 / 5.000
+t05B_nrange.log:~~       AUTO__SCORED:      2.500 / 5.000
+t05C_nrange.log:~~       AUTO__SCORED:      2.500 / 5.000
+t06A_balancing.log:~~       AUTO__SCORED:      20.000 / 20.000
+t06B_balancing.log:~~       AUTO__SCORED:      20.000 / 20.000
+t06C_balancing.log:~~       AUTO__SCORED:      20.000 / 20.000
+
+ AUTO-SCORE TOTAL:  137.5 / 145
+
+  MISSING POINTS (CRASHES?):  0
+  (EXPECTED MAX AUTO-SCORE: 145)
+
+  (POINTS FOR README FILE NOT INCLUDED)
+  (POINTS FOR 'HONEST EFFORT' NOT INCLUDED)
